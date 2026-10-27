@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": "espetos",
+      "name": "Espetos"
+    },
+    {
+      "id": "crus",
+      "name": "Espetos crus",
+      "note": "Sob encomenda · venda por unidade"
+    },
+    {
+      "id": "caipirinhas",
+      "name": "Caipirinhas"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks"
+    },
+    {
+      "id": "doces",
+      "name": "Doces"
+    }
+  ],
+  "items": [
+    {
+      "category": "espetos",
+      "name": "Asinha de frango",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Tulipa",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Panceta",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Queijo",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Kafta",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Almôndega de carne",
+      "price": 8
+    },
+    {
+      "category": "espetos",
+      "name": "Camarão",
+      "price": null
+    },
+    {
+      "category": "espetos",
+      "name": "Queijo mussarela",
+      "price": null
+    },
+    {
+      "category": "crus",
+      "name": "Carne",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Cheddar",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Batata",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Banana com bacon",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Ovo com bacon",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Medalhão de carne",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Medalhão de frango",
+      "price": 4.9
+    },
+    {
+      "category": "crus",
+      "name": "Queijo mussarela",
+      "price": 5.5
+    },
+    {
+      "category": "crus",
+      "name": "Queijo provolone",
+      "price": 5.5
+    },
+    {
+      "category": "crus",
+      "name": "Camarão",
+      "price": 5.5
+    },
+    {
+      "category": "crus",
+      "name": "Mussarela com bacon",
+      "price": null
+    },
+    {
+      "category": "caipirinhas",
+      "name": "Caipirinha de cachaça",
+      "price": null,
+      "priceLabel": "R$ 13,00 / R$ 15,00"
+    },
+    {
+      "category": "caipirinhas",
+      "name": "Caipirinha de vodka",
+      "price": 17
+    },
+    {
+      "category": "caipirinhas",
+      "name": "Caipirinha de saquê",
+      "price": 15
+    },
+    {
+      "category": "drinks",
+      "name": "Sex on the Beach",
+      "price": 22
+    },
+    {
+      "category": "drinks",
+      "name": "Morango Ice",
+      "price": 22
+    },
+    {
+      "category": "doces",
+      "name": "Espeto Romeu e Julieta",
+      "price": null
+    },
+    {
+      "category": "doces",
+      "name": "Espeto de morango com chocolate",
+      "price": 9
+    },
+    {
+      "category": "doces",
+      "name": "Taça de morangos",
+      "price": 12
+    },
+    {
+      "category": "doces",
+      "name": "Mousse de limão com ganache",
+      "price": 9,
+      "description": "200 ml"
+    }
+  ]
+}
